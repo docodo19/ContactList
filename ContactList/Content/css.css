@@ -1,0 +1,18 @@
+﻿body {
+    background-color: #d3e3f3;
+    font-family: 'Raleway', sans-serif;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.panel {
+    background-color: transparent;
+}
+
+#createArea:hover {
+    position: relative;
+    min-height: 1px;
+    
+}
